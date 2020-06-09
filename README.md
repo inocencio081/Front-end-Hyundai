@@ -9,5 +9,9 @@ Dê uma olhada primeiro no oficial, lembro-te já que o site oficial está em co
 
     Menus (3), carrossel de imagem (2), galeria de fotos (2), formulário de assistente virtual(1) e muito mais.
     
+    As cores foram selecionadas de forma cautelosa para estarem mais perto do site oficial, a responsividade '@media' em 720 com pequenas alterações mais funcionais a 100%. 
+
+para mais detalhes podes olhar pelo navegador de forma mais precisa. agradeço a tua visita até aqui.
+    
     
 
